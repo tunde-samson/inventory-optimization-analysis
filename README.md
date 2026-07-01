@@ -1,3 +1,22 @@
-# inventory-optimization-analysis
+# Inventory-Optimization-Analysis
 
-### TUNde
+## Project Overview
+
+Inventory Optimization Analysis for a Retail Company
+
+## Business Problem
+
+The company experienced stockouts, excess inventory, and inefficient replenishment decisions.
+
+## Tools
+SQL
+Python
+Power BI
+
+## Analysis Performed
+Sales Analysis
+Inventory Turnover
+ABC Analysis
+Reorder Point Analysis
+Demand Forecasting
+Supplier Performance Analysis
