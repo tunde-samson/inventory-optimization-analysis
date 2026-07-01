@@ -14,7 +14,7 @@ Optimize inventory levels while minimizing stockouts and excess stock
 ## Dataset
 The dataset is chatpgt generated - Bokku day-to-day Sales Transactions Data, Inventory Data, Products Data, Store Data, Supplier Data, and Warehouse Data
 
-Each table contain 10,000 data points
+Each table contains 10,000 data points
 
 ## Tools
 SQL
