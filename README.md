@@ -12,11 +12,18 @@ The company experienced stockouts, excess inventory, and inefficient replenishme
 SQL, Python, and Power BI
 
 ## Analysis Performed
-Sales Analysis
-Inventory Turnover
-ABC Analysis
-Reorder Point Analysis
-Demand Forecasting
-Supplier Performance Analysis
+Sales Analysis, 
+Inventory Turnover, 
+ABC Analysis, 
+Reorder Point Analysis, 
+Demand Forecasting, 
+Supplier Performance Analysis, 
 
 ## Dashboard
+Executive Dashboard
+
+Inventory Dashboard
+
+Stockout Dashboard
+Supplier Dashboard
+Forecast Dashboard
