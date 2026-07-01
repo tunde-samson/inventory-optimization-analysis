@@ -9,9 +9,7 @@ Inventory Optimization Analysis for a Retail Company
 The company experienced stockouts, excess inventory, and inefficient replenishment decisions.
 
 ## Tools
-SQL
-Python
-Power BI
+SQL, Python, and Power BI
 
 ## Analysis Performed
 Sales Analysis
@@ -20,3 +18,5 @@ ABC Analysis
 Reorder Point Analysis
 Demand Forecasting
 Supplier Performance Analysis
+
+## Dashboard
