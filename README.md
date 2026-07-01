@@ -44,3 +44,19 @@ Supplier Performance Analysis
    
 7. Store Performance Dashboard
 
+## Key Insights
+20% of products generated 80% of revenue.
+
+Several products were below reorder point.
+
+Some suppliers had longer lead times.
+
+Demand forecasting identified future inventory needs.
+
+## Recommendations
+Increase safety stock for critical products.
+
+Reduce slow-moving inventory.
+
+Monitor supplier performance.
+
