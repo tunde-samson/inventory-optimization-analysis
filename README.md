@@ -8,6 +8,12 @@ Inventory Optimization Analysis for a Retail Company
 
 The company experienced stockouts, excess inventory, and inefficient replenishment decisions.
 
+## Objective
+Optimize inventory levels while minimizing stockouts and excess stock
+
+## Dataset
+The dataset is chatpgt generated - Bokku day-to-day Sales Transactions Data, Inventory Data, Products Data, Store Data, Supplier Data, and Warehouse Data 
+
 ## Tools
 SQL
 
