@@ -1,0 +1,531 @@
+product_id,product_name,current_stock,reorder_level
+P07518,"Golden Penny Product 7518",0,450
+P01449,"Power Oil Product 1449",0,396
+P03592,"Dettol Product 3592",2,257
+P04028,"Golden Penny Product 4028",2,287
+P01570,"Dettol Product 1570",3,175
+P05749,"Golden Penny Product 5749",3,464
+P03327,"Nestle Product 3327",5,293
+P06285,"Nestle Product 6285",5,271
+P09714,"Dangote Product 9714",5,361
+P09977,"Indomie Product 9977",5,309
+P04105,"Milo Product 4105",6,337
+P01976,"Indomie Product 1976",8,371
+P08394,"Dangote Product 8394",9,144
+P07615,"Indomie Product 7615",9,101
+P09803,"Indomie Product 9803",9,96
+P06790,"Milo Product 6790",9,238
+P08673,"Indomie Product 8673",9,175
+P09665,"Indomie Product 9665",11,251
+P07976,"Indomie Product 7976",11,294
+P02505,"Power Oil Product 2505",12,315
+P01922,"Power Oil Product 1922",12,287
+P06829,"Dangote Product 6829",13,284
+P07432,"Indomie Product 7432",13,378
+P03695,"Milo Product 3695",14,161
+P06410,"Indomie Product 6410",15,339
+P02214,"Indomie Product 2214",16,321
+P09423,"Peak Product 9423",16,418
+P03984,"Peak Product 3984",17,160
+P01235,"Peak Product 1235",17,79
+P02301,"Milo Product 2301",17,191
+P06140,"Indomie Product 6140",17,453
+P08740,"Dangote Product 8740",19,380
+P00735,"Power Oil Product 735",20,184
+P00984,"Nestle Product 984",20,306
+P03135,"Dettol Product 3135",20,288
+P05533,"Dettol Product 5533",20,95
+P03864,"Milo Product 3864",20,440
+P04934,"Dettol Product 4934",21,187
+P03083,"Peak Product 3083",21,205
+P03330,"Peak Product 3330",21,250
+P00750,"Nestle Product 750",21,142
+P03630,"Milo Product 3630",22,431
+P03922,"Milo Product 3922",22,73
+P08206,"Golden Penny Product 8206",23,127
+P02520,"Dangote Product 2520",24,348
+P07415,"Indomie Product 7415",24,444
+P00971,"Milo Product 971",25,255
+P01041,"Golden Penny Product 1041",25,206
+P05196,"Milo Product 5196",25,447
+P08624,"Peak Product 8624",26,138
+P03215,"Nestle Product 3215",26,274
+P08545,"Nestle Product 8545",26,161
+P00637,"Peak Product 637",27,109
+P02844,"Milo Product 2844",27,155
+P08482,"Power Oil Product 8482",28,124
+P02569,"Indomie Product 2569",29,98
+P01529,"Nestle Product 1529",29,298
+P00112,"Indomie Product 112",30,381
+P02342,"Dettol Product 2342",30,408
+P04614,"Power Oil Product 4614",32,382
+P01110,"Indomie Product 1110",32,239
+P03744,"Dettol Product 3744",32,71
+P05825,"Golden Penny Product 5825",32,313
+P09133,"Peak Product 9133",32,483
+P05313,"Dangote Product 5313",33,452
+P09063,"Dangote Product 9063",34,191
+P03062,"Peak Product 3062",34,232
+P08438,"Milo Product 8438",35,346
+P07127,"Dettol Product 7127",35,389
+P04216,"Peak Product 4216",36,229
+P01848,"Peak Product 1848",37,176
+P07088,"Milo Product 7088",37,322
+P09530,"Nestle Product 9530",38,455
+P03381,"Milo Product 3381",38,408
+P06372,"Nestle Product 6372",39,227
+P04828,"Indomie Product 4828",39,253
+P08653,"Golden Penny Product 8653",40,78
+P05010,"Power Oil Product 5010",40,451
+P03449,"Power Oil Product 3449",40,344
+P08899,"Indomie Product 8899",41,344
+P08493,"Peak Product 8493",41,188
+P02764,"Milo Product 2764",41,444
+P02293,"Milo Product 2293",41,195
+P01021,"Milo Product 1021",41,315
+P01010,"Milo Product 1010",42,341
+P02334,"Golden Penny Product 2334",42,324
+P02436,"Milo Product 2436",43,442
+P07815,"Peak Product 7815",43,492
+P07528,"Nestle Product 7528",43,79
+P01572,"Peak Product 1572",44,362
+P03445,"Peak Product 3445",44,194
+P08542,"Nestle Product 8542",45,161
+P07234,"Milo Product 7234",45,461
+P08481,"Dettol Product 8481",47,337
+P06776,"Power Oil Product 6776",47,55
+P04049,"Dettol Product 4049",47,417
+P00202,"Nestle Product 202",49,99
+P00720,"Milo Product 720",49,204
+P05024,"Golden Penny Product 5024",50,52
+P07452,"Milo Product 7452",51,468
+P09304,"Milo Product 9304",52,220
+P02097,"Milo Product 2097",52,464
+P04972,"Peak Product 4972",52,216
+P09226,"Nestle Product 9226",53,367
+P05140,"Indomie Product 5140",53,172
+P00670,"Indomie Product 670",54,88
+P00572,"Indomie Product 572",55,324
+P08788,"Dangote Product 8788",55,475
+P07212,"Dettol Product 7212",56,447
+P00702,"Milo Product 702",58,231
+P07813,"Nestle Product 7813",58,339
+P09239,"Nestle Product 9239",58,365
+P05578,"Dettol Product 5578",60,150
+P08859,"Golden Penny Product 8859",61,384
+P06988,"Dettol Product 6988",62,463
+P05416,"Indomie Product 5416",63,165
+P04406,"Dangote Product 4406",63,436
+P02357,"Nestle Product 2357",65,440
+P01195,"Dangote Product 1195",65,280
+P00649,"Power Oil Product 649",66,121
+P08130,"Indomie Product 8130",68,113
+P00741,"Peak Product 741",68,73
+P07233,"Peak Product 7233",69,253
+P00745,"Milo Product 745",69,144
+P00822,"Indomie Product 822",71,493
+P04131,"Golden Penny Product 4131",71,278
+P04418,"Dangote Product 4418",71,278
+P08646,"Peak Product 8646",71,136
+P08905,"Dettol Product 8905",71,242
+P07204,"Indomie Product 7204",72,80
+P02050,"Peak Product 2050",72,243
+P03117,"Dettol Product 3117",72,281
+P06367,"Milo Product 6367",73,336
+P00928,"Peak Product 928",73,148
+P04627,"Golden Penny Product 4627",74,151
+P09190,"Power Oil Product 9190",76,297
+P07484,"Power Oil Product 7484",77,447
+P06265,"Power Oil Product 6265",79,330
+P01095,"Dettol Product 1095",79,269
+P06800,"Milo Product 6800",79,189
+P03166,"Dettol Product 3166",79,352
+P08012,"Nestle Product 8012",80,459
+P05118,"Dangote Product 5118",80,359
+P06039,"Dettol Product 6039",82,424
+P08958,"Milo Product 8958",83,358
+P02036,"Nestle Product 2036",83,445
+P01498,"Peak Product 1498",84,93
+P08614,"Dangote Product 8614",85,451
+P01651,"Power Oil Product 1651",85,393
+P04197,"Dangote Product 4197",85,261
+P02046,"Peak Product 2046",85,127
+P09037,"Indomie Product 9037",86,119
+P05509,"Nestle Product 5509",86,157
+P09344,"Dangote Product 9344",87,225
+P01926,"Peak Product 1926",87,119
+P05593,"Dettol Product 5593",87,199
+P08357,"Milo Product 8357",87,459
+P09177,"Peak Product 9177",88,355
+P04537,"Indomie Product 4537",89,241
+P02903,"Power Oil Product 2903",89,99
+P09171,"Golden Penny Product 9171",90,328
+P04802,"Milo Product 4802",91,281
+P04297,"Milo Product 4297",91,371
+P07589,"Milo Product 7589",91,143
+P05280,"Indomie Product 5280",92,360
+P08293,"Milo Product 8293",96,184
+P01073,"Golden Penny Product 1073",96,266
+P07989,"Golden Penny Product 7989",96,209
+P09024,"Nestle Product 9024",96,446
+P02092,"Nestle Product 2092",96,445
+P09413,"Dangote Product 9413",96,256
+P00830,"Dettol Product 830",97,252
+P04805,"Nestle Product 4805",97,148
+P03185,"Peak Product 3185",98,367
+P03497,"Dettol Product 3497",99,213
+P06722,"Power Oil Product 6722",99,292
+P06157,"Dangote Product 6157",99,156
+P06063,"Dettol Product 6063",99,324
+P03004,"Milo Product 3004",100,395
+P08992,"Indomie Product 8992",100,218
+P08054,"Dangote Product 8054",100,370
+P02243,"Milo Product 2243",101,165
+P04388,"Milo Product 4388",102,349
+P04098,"Power Oil Product 4098",102,399
+P05892,"Golden Penny Product 5892",103,369
+P09058,"Dangote Product 9058",104,442
+P03433,"Milo Product 3433",104,438
+P08083,"Power Oil Product 8083",105,360
+P05381,"Golden Penny Product 5381",106,368
+P04462,"Nestle Product 4462",107,371
+P02053,"Dettol Product 2053",108,199
+P05358,"Indomie Product 5358",108,132
+P06032,"Peak Product 6032",108,366
+P07041,"Dettol Product 7041",109,187
+P01122,"Power Oil Product 1122",109,305
+P09968,"Indomie Product 9968",109,140
+P08116,"Dettol Product 8116",110,215
+P00566,"Nestle Product 566",110,178
+P02327,"Nestle Product 2327",110,315
+P01410,"Dettol Product 1410",112,169
+P08594,"Dettol Product 8594",114,411
+P06047,"Dettol Product 6047",115,289
+P01072,"Nestle Product 1072",115,388
+P00282,"Nestle Product 282",115,439
+P05306,"Milo Product 5306",116,191
+P04357,"Nestle Product 4357",117,271
+P04348,"Power Oil Product 4348",117,396
+P07762,"Peak Product 7762",117,403
+P08439,"Milo Product 8439",118,271
+P06964,"Indomie Product 6964",118,403
+P09231,"Power Oil Product 9231",119,395
+P06151,"Milo Product 6151",120,222
+P09475,"Dettol Product 9475",121,320
+P06503,"Dettol Product 6503",121,464
+P02461,"Milo Product 2461",121,325
+P09175,"Peak Product 9175",121,290
+P09427,"Dangote Product 9427",122,209
+P09640,"Indomie Product 9640",124,336
+P01640,"Indomie Product 1640",124,351
+P02110,"Dangote Product 2110",125,439
+P00941,"Power Oil Product 941",125,489
+P02739,"Indomie Product 2739",126,207
+P01617,"Milo Product 1617",127,366
+P06944,"Dettol Product 6944",128,194
+P02632,"Dangote Product 2632",128,288
+P09222,"Peak Product 9222",128,310
+P02642,"Indomie Product 2642",128,478
+P07857,"Milo Product 7857",129,247
+P03051,"Milo Product 3051",130,473
+P05016,"Golden Penny Product 5016",130,474
+P07187,"Power Oil Product 7187",131,242
+P04364,"Dettol Product 4364",132,426
+P04804,"Milo Product 4804",133,483
+P02990,"Peak Product 2990",135,270
+P05493,"Dettol Product 5493",135,399
+P04873,"Nestle Product 4873",136,162
+P08611,"Power Oil Product 8611",136,480
+P05999,"Dettol Product 5999",136,220
+P04987,"Dangote Product 4987",136,193
+P01257,"Peak Product 1257",137,412
+P04688,"Dettol Product 4688",139,279
+P02849,"Golden Penny Product 2849",139,412
+P09430,"Peak Product 9430",139,281
+P07465,"Dettol Product 7465",140,271
+P06439,"Peak Product 6439",140,180
+P00555,"Power Oil Product 555",142,428
+P04195,"Dangote Product 4195",142,291
+P07604,"Peak Product 7604",143,495
+P02458,"Golden Penny Product 2458",144,230
+P09829,"Golden Penny Product 9829",144,427
+P01280,"Indomie Product 1280",144,176
+P04027,"Indomie Product 4027",145,472
+P07315,"Power Oil Product 7315",145,457
+P00972,"Golden Penny Product 972",145,154
+P00951,"Golden Penny Product 951",146,317
+P05424,"Dangote Product 5424",147,359
+P09016,"Milo Product 9016",149,386
+P03632,"Peak Product 3632",149,363
+P02368,"Milo Product 2368",149,439
+P08205,"Peak Product 8205",150,220
+P00058,"Dettol Product 58",152,334
+P09863,"Peak Product 9863",153,192
+P00690,"Dangote Product 690",153,318
+P03335,"Golden Penny Product 3335",153,392
+P00287,"Indomie Product 287",154,365
+P06932,"Milo Product 6932",155,424
+P02576,"Power Oil Product 2576",156,251
+P04358,"Milo Product 4358",156,496
+P00670,"Indomie Product 670",156,380
+P06025,"Indomie Product 6025",156,298
+P06503,"Dettol Product 6503",157,405
+P03333,"Dangote Product 3333",159,301
+P09950,"Dangote Product 9950",161,491
+P07315,"Power Oil Product 7315",162,359
+P03479,"Indomie Product 3479",162,189
+P05896,"Indomie Product 5896",162,392
+P05683,"Dangote Product 5683",162,245
+P02471,"Milo Product 2471",163,399
+P00311,"Indomie Product 311",163,192
+P07155,"Dangote Product 7155",163,209
+P09643,"Dettol Product 9643",164,500
+P03464,"Indomie Product 3464",164,233
+P07090,"Dettol Product 7090",165,349
+P03298,"Nestle Product 3298",166,306
+P09428,"Nestle Product 9428",167,202
+P04897,"Dettol Product 4897",168,464
+P05561,"Golden Penny Product 5561",169,463
+P03739,"Power Oil Product 3739",169,370
+P00146,"Peak Product 146",170,463
+P01751,"Golden Penny Product 1751",170,403
+P05945,"Power Oil Product 5945",171,220
+P05577,"Dettol Product 5577",171,449
+P08626,"Milo Product 8626",171,379
+P06152,"Golden Penny Product 6152",174,378
+P04669,"Milo Product 4669",177,209
+P09031,"Nestle Product 9031",177,361
+P02323,"Indomie Product 2323",177,185
+P01684,"Milo Product 1684",179,278
+P07771,"Indomie Product 7771",179,431
+P08272,"Nestle Product 8272",181,487
+P08557,"Dettol Product 8557",182,481
+P06367,"Milo Product 6367",184,404
+P01957,"Dangote Product 1957",185,482
+P00911,"Dettol Product 911",186,222
+P07689,"Golden Penny Product 7689",187,303
+P00342,"Milo Product 342",187,392
+P01136,"Golden Penny Product 1136",187,430
+P05141,"Nestle Product 5141",189,220
+P05841,"Indomie Product 5841",189,328
+P04472,"Dangote Product 4472",190,220
+P02588,"Peak Product 2588",190,235
+P00638,"Indomie Product 638",190,206
+P07215,"Dangote Product 7215",191,196
+P03010,"Nestle Product 3010",191,316
+P01861,"Indomie Product 1861",191,450
+P01440,"Milo Product 1440",192,400
+P08152,"Dangote Product 8152",193,361
+P09175,"Peak Product 9175",193,484
+P00771,"Dangote Product 771",193,262
+P01021,"Milo Product 1021",193,462
+P07649,"Nestle Product 7649",194,417
+P08863,"Indomie Product 8863",195,239
+P03769,"Nestle Product 3769",195,470
+P07951,"Milo Product 7951",196,294
+P02054,"Indomie Product 2054",196,400
+P02695,"Golden Penny Product 2695",196,373
+P01134,"Power Oil Product 1134",200,237
+P02494,"Milo Product 2494",202,263
+P06885,"Dangote Product 6885",203,464
+P09898,"Nestle Product 9898",203,410
+P05846,"Peak Product 5846",204,291
+P09153,"Dettol Product 9153",204,334
+P07584,"Milo Product 7584",204,381
+P05926,"Nestle Product 5926",207,221
+P01080,"Dangote Product 1080",207,271
+P09951,"Dettol Product 9951",209,295
+P01660,"Golden Penny Product 1660",210,333
+P09935,"Peak Product 9935",210,427
+P02115,"Power Oil Product 2115",210,466
+P03409,"Indomie Product 3409",214,338
+P07502,"Milo Product 7502",215,306
+P07750,"Nestle Product 7750",215,418
+P00976,"Nestle Product 976",215,218
+P02014,"Milo Product 2014",216,409
+P01553,"Golden Penny Product 1553",216,305
+P01778,"Golden Penny Product 1778",217,275
+P00655,"Dangote Product 655",219,236
+P06747,"Golden Penny Product 6747",221,405
+P06094,"Milo Product 6094",222,324
+P07571,"Milo Product 7571",223,497
+P02130,"Peak Product 2130",224,382
+P02345,"Power Oil Product 2345",224,301
+P05307,"Milo Product 5307",224,356
+P04609,"Dettol Product 4609",225,466
+P07701,"Golden Penny Product 7701",225,400
+P09875,"Indomie Product 9875",225,239
+P04852,"Dangote Product 4852",226,380
+P04226,"Dettol Product 4226",226,240
+P06547,"Power Oil Product 6547",227,440
+P03360,"Indomie Product 3360",228,365
+P08459,"Power Oil Product 8459",228,247
+P06444,"Dettol Product 6444",228,381
+P02140,"Nestle Product 2140",228,492
+P01870,"Nestle Product 1870",228,494
+P05382,"Power Oil Product 5382",231,365
+P08968,"Milo Product 8968",232,395
+P00373,"Dettol Product 373",232,326
+P09435,"Dangote Product 9435",233,254
+P08138,"Peak Product 8138",234,369
+P04582,"Dettol Product 4582",234,254
+P08547,"Power Oil Product 8547",236,293
+P07074,"Golden Penny Product 7074",236,444
+P05197,"Indomie Product 5197",237,257
+P00543,"Power Oil Product 543",238,285
+P07185,"Dangote Product 7185",238,490
+P05741,"Power Oil Product 5741",242,283
+P05594,"Milo Product 5594",243,489
+P09516,"Nestle Product 9516",244,439
+P05211,"Milo Product 5211",245,398
+P00985,"Golden Penny Product 985",247,352
+P05635,"Golden Penny Product 5635",247,257
+P03423,"Nestle Product 3423",248,392
+P06231,"Nestle Product 6231",248,449
+P06016,"Golden Penny Product 6016",250,406
+P09442,"Nestle Product 9442",251,448
+P01803,"Golden Penny Product 1803",254,431
+P01331,"Dettol Product 1331",255,434
+P04962,"Dettol Product 4962",259,361
+P00322,"Indomie Product 322",259,419
+P08781,"Peak Product 8781",260,297
+P07864,"Milo Product 7864",260,410
+P03302,"Power Oil Product 3302",260,441
+P09662,"Nestle Product 9662",261,284
+P02374,"Golden Penny Product 2374",262,303
+P04555,"Dangote Product 4555",263,328
+P06008,"Dangote Product 6008",263,485
+P06048,"Dettol Product 6048",263,370
+P06063,"Dettol Product 6063",264,416
+P07070,"Dettol Product 7070",265,399
+P04885,"Indomie Product 4885",266,354
+P06090,"Milo Product 6090",266,298
+P01017,"Dettol Product 1017",267,369
+P08355,"Nestle Product 8355",268,283
+P01508,"Dettol Product 1508",268,458
+P03033,"Nestle Product 3033",269,472
+P01464,"Dangote Product 1464",270,500
+P05816,"Power Oil Product 5816",271,289
+P02675,"Dettol Product 2675",272,465
+P03963,"Power Oil Product 3963",272,421
+P04054,"Golden Penny Product 4054",272,334
+P02798,"Power Oil Product 2798",272,328
+P06587,"Milo Product 6587",273,280
+P00290,"Nestle Product 290",274,439
+P07543,"Dangote Product 7543",276,479
+P08108,"Nestle Product 8108",278,323
+P04527,"Nestle Product 4527",278,280
+P08530,"Dangote Product 8530",278,300
+P01380,"Power Oil Product 1380",282,497
+P05875,"Indomie Product 5875",282,304
+P00155,"Dangote Product 155",284,493
+P07440,"Dettol Product 7440",285,477
+P07957,"Golden Penny Product 7957",285,330
+P08687,"Milo Product 8687",287,302
+P02192,"Nestle Product 2192",291,389
+P05825,"Golden Penny Product 5825",291,395
+P02429,"Peak Product 2429",292,371
+P03461,"Power Oil Product 3461",293,336
+P02654,"Peak Product 2654",293,325
+P07336,"Dangote Product 7336",294,491
+P06572,"Nestle Product 6572",295,477
+P07240,"Golden Penny Product 7240",296,421
+P06412,"Dettol Product 6412",300,385
+P04517,"Dangote Product 4517",300,311
+P04564,"Indomie Product 4564",301,436
+P02792,"Golden Penny Product 2792",302,368
+P08135,"Dettol Product 8135",302,405
+P00516,"Power Oil Product 516",302,403
+P07120,"Dangote Product 7120",302,322
+P08840,"Peak Product 8840",303,310
+P04162,"Indomie Product 4162",303,309
+P01169,"Indomie Product 1169",306,393
+P09209,"Indomie Product 9209",307,388
+P06782,"Peak Product 6782",308,392
+P01339,"Peak Product 1339",309,360
+P09207,"Nestle Product 9207",309,439
+P07635,"Golden Penny Product 7635",310,474
+P02066,"Dangote Product 2066",310,441
+P08809,"Nestle Product 8809",311,470
+P01991,"Nestle Product 1991",312,493
+P03048,"Golden Penny Product 3048",313,324
+P05886,"Dettol Product 5886",314,394
+P08971,"Indomie Product 8971",315,494
+P06590,"Power Oil Product 6590",316,451
+P07077,"Power Oil Product 7077",317,393
+P05799,"Milo Product 5799",319,372
+P02097,"Milo Product 2097",321,337
+P04551,"Golden Penny Product 4551",322,365
+P06212,"Dettol Product 6212",325,356
+P05904,"Power Oil Product 5904",326,364
+P08861,"Dettol Product 8861",328,442
+P02668,"Indomie Product 2668",330,421
+P02199,"Milo Product 2199",330,457
+P01319,"Dettol Product 1319",332,386
+P09500,"Indomie Product 9500",332,349
+P06283,"Golden Penny Product 6283",333,359
+P00648,"Dangote Product 648",341,422
+P09215,"Indomie Product 9215",343,425
+P02804,"Milo Product 2804",343,425
+P02713,"Indomie Product 2713",343,386
+P06612,"Nestle Product 6612",344,458
+P04631,"Indomie Product 4631",344,381
+P01412,"Power Oil Product 1412",344,481
+P01845,"Dettol Product 1845",346,460
+P04877,"Indomie Product 4877",349,498
+P03758,"Indomie Product 3758",350,421
+P00779,"Dettol Product 779",353,496
+P05176,"Milo Product 5176",353,399
+P01165,"Dettol Product 1165",353,441
+P01758,"Golden Penny Product 1758",356,397
+P03160,"Peak Product 3160",357,412
+P08089,"Indomie Product 8089",358,391
+P07240,"Golden Penny Product 7240",358,405
+P05217,"Peak Product 5217",358,375
+P00382,"Power Oil Product 382",358,452
+P06505,"Peak Product 6505",365,415
+P04743,"Dettol Product 4743",366,461
+P00921,"Peak Product 921",367,428
+P06664,"Peak Product 6664",367,458
+P01404,"Peak Product 1404",369,427
+P09145,"Nestle Product 9145",370,403
+P03401,"Dettol Product 3401",373,454
+P04249,"Nestle Product 4249",375,424
+P01774,"Peak Product 1774",378,442
+P08993,"Golden Penny Product 8993",383,496
+P02930,"Peak Product 2930",385,429
+P05489,"Nestle Product 5489",387,429
+P07386,"Dettol Product 7386",388,499
+P06304,"Milo Product 6304",391,436
+P06320,"Power Oil Product 6320",392,454
+P08397,"Golden Penny Product 8397",393,452
+P01882,"Peak Product 1882",394,424
+P05641,"Indomie Product 5641",396,472
+P09346,"Peak Product 9346",402,419
+P03929,"Milo Product 3929",406,450
+P04120,"Milo Product 4120",406,409
+P09955,"Nestle Product 9955",407,459
+P01889,"Power Oil Product 1889",411,454
+P08619,"Peak Product 8619",412,429
+P02638,"Peak Product 2638",414,469
+P02292,"Indomie Product 2292",414,488
+P09954,"Indomie Product 9954",416,417
+P07758,"Power Oil Product 7758",417,480
+P05264,"Indomie Product 5264",419,454
+P03340,"Nestle Product 3340",419,467
+P06753,"Nestle Product 6753",420,448
+P05560,"Dettol Product 5560",421,466
+P04387,"Dettol Product 4387",427,489
+P01045,"Milo Product 1045",431,480
+P06116,"Golden Penny Product 6116",432,447
+P05744,"Nestle Product 5744",434,462
+P01373,"Golden Penny Product 1373",436,455
+P09249,"Nestle Product 9249",438,440
+P03808,"Dettol Product 3808",440,452
+P07196,"Dangote Product 7196",453,495
+P08953,"Peak Product 8953",460,499
+P05967,"Power Oil Product 5967",465,467
+P01317,"Power Oil Product 1317",467,468
+P07685,"Dangote Product 7685",469,471
+P08675,"Milo Product 8675",473,497
+P07098,"Power Oil Product 7098",483,496
