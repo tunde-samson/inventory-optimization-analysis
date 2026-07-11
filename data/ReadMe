@@ -1,3 +1,3 @@
 # Day-to-day bokku simulated dataset by chatgpt.com comes in csv file for 6 tables, which i loaded into mysql workbench for analysis, also
-using in python notebook for different analysis and KPIS
+using in python notebook for different analysis and KPIS. Also upload the extracted dataset along with bokku sales simulated dataset to PowerBI to generated 5 dashboards
 
